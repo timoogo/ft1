@@ -26,7 +26,6 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
     line-height: 1;
-    background: blue;
 }
 ol, ul {
 	list-style: none;
@@ -44,13 +43,3 @@ table {
 	border-spacing: 0;
 }
 /* end of RESET*/
-
-h1{
-    font-family: oswald;
-    font-size: 50px; 
-    display: flex;
-    flex-direction: column;
-    justify-content: center ;
-    text-align: center;
-    color: whitesmoke; 
-}
